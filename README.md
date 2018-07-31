@@ -5,6 +5,7 @@ The project objective is to create a reporting tool that prints out reports (in 
 ## Environment
 
 Create a PostGreSql database named **'news'**.
+Download and unzip newsdata.7z file
 
 ## Tables and database dump:
 vagrant@vagrant~$ cd /vagrant
