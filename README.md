@@ -1,4 +1,4 @@
-# Log Analysis Project
+# fsnd-logs-analysis
 
 The project objective is to create a reporting tool that prints out reports (in plain text) based on the data in a database. This reporting tool is a Python program using the psycopg2 module to connect to the database.
 
